@@ -1,0 +1,10 @@
+.container {
+    display: flex;
+    justify-content: center;
+}
+
+.calculator {
+    text-align: center;
+    border: solid black;
+    width: 50%;
+}
